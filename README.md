@@ -33,3 +33,10 @@ You should expect output like the following
 ```
 [{"id":12345,"name":"Clacks Ltd"}]
 ```
+
+## References
+
+### API Documentation
+
+* [Dashboard API Introduction](https://documentation.meraki.com/zGeneral_Administration/Other_Topics/The_Cisco_Meraki_Dashboard_API)
+* [Developer API documentation](https://developer.cisco.com/meraki/)
